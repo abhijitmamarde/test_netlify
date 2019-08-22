@@ -6,10 +6,20 @@
     <description>Recent content in Posts on test New Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2019 14:22:10 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2019 18:22:24 +0530</lastBuildDate>
     
 	<atom:link href="http://test.mamarde.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code</title>
+      <link>http://test.mamarde.com/posts/code/</link>
+      <pubDate>Thu, 22 Aug 2019 18:22:24 +0530</pubDate>
+      
+      <guid>http://test.mamarde.com/posts/code/</guid>
+      <description>checking code blocks
+print(&amp;quot;Hello World&amp;quot;)  $ python3 hello.py  Thats it for now!</description>
+    </item>
     
     <item>
       <title>First</title>

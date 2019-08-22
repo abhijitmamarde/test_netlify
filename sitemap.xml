@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://test.mamarde.com/posts/first/</loc>
-    <lastmod>2019-08-22T14:22:10+05:30</lastmod>
+    <loc>http://test.mamarde.com/posts/code/</loc>
+    <lastmod>2019-08-22T18:22:24+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://test.mamarde.com/posts/</loc>
-    <lastmod>2019-08-22T14:22:10+05:30</lastmod>
+    <lastmod>2019-08-22T18:22:24+05:30</lastmod>
   </url>
   
   <url>
     <loc>http://test.mamarde.com/</loc>
+    <lastmod>2019-08-22T18:22:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://test.mamarde.com/posts/first/</loc>
     <lastmod>2019-08-22T14:22:10+05:30</lastmod>
   </url>
   
